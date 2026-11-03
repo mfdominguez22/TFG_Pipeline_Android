@@ -1,0 +1,4 @@
+android {
+    namespace 'com.tfg.dummy'
+    compileSdk 34
+}
